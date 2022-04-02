@@ -4,7 +4,7 @@
 <p align="center">
     Zargo Dynasty
 <p align="center">  
-<img src="https://komarev.com/ghpvc/?username=iamZargo&color=grey">
+<img src="https://komarev.com/ghpvc/?username=iamZargo&color=lightgrey">
 </p>
     <p align="center">
   <img src="https://discord.c99.nl/widget/theme-2/944283087444013206.png"/>
