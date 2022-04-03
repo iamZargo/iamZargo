@@ -1,5 +1,5 @@
 <p align="center">  
-<img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
+<img src="https://media.discordapp.net/attachments/946670060041285632/960199946403975269/Untitled_design_9.png">
 </p>
     <p align="center">
   <img src="https://discord.c99.nl/widget/theme-2/944283087444013206.png"/>
