@@ -24,6 +24,9 @@ I'm just seriously bored. 🥱
 ---------------------------------------
 ### Offer
 - <a href="https://github.com/iamZargo/CrispNukerV1Lite">CrispNukerV1Lite</a>
+
+### Upcoming
+* [ ] Socials Scraper (IG, FB, TWT & TikTok)
  
 ---------------------------------------
  
