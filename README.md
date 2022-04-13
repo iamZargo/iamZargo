@@ -10,16 +10,14 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&size=22&lines=I'm+Zargo;Don't+Forget+To+Follow+Me;Add+me+on+my+socials;TwT:+@KiseeIsHere;"/>
 </h2>
 
-
-
+<h2 align="center">
+<img src="https://media.discordapp.net/attachments/950217779519291452/950222357753127032/bb1fd72a6114ea0416dfa24886641acc.png">
+<br>
+  
 <p align="center">
 I'm just seriously bored. 🥱
 <br />
 <a href="https://linktr.ee/ZargoOfficial">Socials</a>
-
-<h2 align="center">
-<img src="https://media.discordapp.net/attachments/950217779519291452/950222357753127032/bb1fd72a6114ea0416dfa24886641acc.png">
-<br>
  
 ---------------------------------------
  
