@@ -3,7 +3,6 @@
 </p>
 
 <h2 align="center">
-<a href="https://github.com/hoemotion/Discord-Mass-DM">
 <img src="https://cdn.discordapp.com/attachments/962728355873058869/963735722655907841/DSS.png" alt="Logo" width="120" height="120">
 </a>
 <br>
