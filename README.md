@@ -26,6 +26,8 @@ I'm just seriously bored. 🥱
 
 ### Upcoming
   * [ ] <a href="https://github.com/iamZargo/CrispSocials">Socials Scraper</a> (IG, FB, TWT & TikTok)
+  * [ ] Crisp Official Website
+  * [ ] Crisp Discord Bot (All In One)
  
 ---------------------------------------
  
