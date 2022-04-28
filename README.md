@@ -23,6 +23,9 @@ I'm just seriously bored. 🥱
 ---------------------------------------
 ### Offer
 - <a href="https://github.com/iamZargo/CrispNukerV1Lite">CrispNukerV1Lite</a>
+  - Python 
+  - Slow
+  - No Proxies
 
 ### Upcoming
   * [ ] <a href="https://github.com/iamZargo/CrispSocials">Socials Scraper</a> (IG, FB, TWT & TikTok)
