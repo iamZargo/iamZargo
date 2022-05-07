@@ -10,27 +10,15 @@
 </h2>
 
 <h2 align="center">
-<img src="https://media.discordapp.net/attachments/950217779519291452/950222357753127032/bb1fd72a6114ea0416dfa24886641acc.png">
+<img src="https://media.discordapp.net/attachments/972545136439492678/972545160380579880/CR_vous_a_envoye_une_Epingle_.jpg">
 <br>
   
 <p align="center">
-I'm just seriously bored. 🥱
+Learning.
 <br />
 <a href="https://linktr.ee/ZargoOfficial">Socials</a>
 ·
 <a href="https://discord.gg/uzw75xuc8b">Server</a>
-  
----------------------------------------
-### Offer
-- <a href="https://github.com/iamZargo/CrispNukerV1Lite">CrispNukerV1Lite</a>
-  - Python 
-  - Slow
-  - No Proxies
-
-### Upcoming
-  * [ ] <a href="https://github.com/iamZargo/CrispSocials">Socials Scraper</a> (IG, FB, TWT & TikTok)
-  * [ ] Crisp Official Website
-  * [ ] Crisp Discord Bot (All In One)
  
 ---------------------------------------
  
